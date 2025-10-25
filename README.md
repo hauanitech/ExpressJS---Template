@@ -33,8 +33,4 @@ git clone #URL
 - Roles
 - Proper Backend Structure
 - Auth System
-...
-
-
-
-
+- Docker Container For Dev/Collab/Deployment..
