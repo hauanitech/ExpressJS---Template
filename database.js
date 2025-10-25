@@ -1,0 +1,1 @@
+import { DATABASE_URL } from "./core/config.js";
